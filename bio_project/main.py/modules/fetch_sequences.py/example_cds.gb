@@ -1,0 +1,817 @@
+LOCUS       AB560859                2589 bp    mRNA    linear   VRT 16-NOV-2010
+DEFINITION  Falco peregrinus AhR mRNA for aryl hydrocarbon receptor, complete
+            cds.
+ACCESSION   AB560859
+VERSION     AB560859.1
+KEYWORDS    .
+SOURCE      Falco peregrinus (peregrine falcon)
+  ORGANISM  Falco peregrinus
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Archelosauria; Archosauria; Dinosauria; Saurischia; Theropoda;
+            Coelurosauria; Aves; Neognathae; Neoaves; Telluraves; Australaves;
+            Falconiformes; Falconidae; Falco.
+REFERENCE   1
+  AUTHORS   Fujisawa,N., Ikenaka,Y. and Ishizuka,M.
+  TITLE     Molecular explanation of AhR ligand insensitivity of peregrine
+            falcon (Falco peregrines)
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 2589)
+  AUTHORS   Fujisawa,N., Ikenaka,Y. and Ishizuka,M.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (13-MAY-2010) Contact:Mayumi Ishizuka Hokkaido
+            University, Graduate School of Veterinary Medicine; Kita18 Nishi9,
+            Kitaku, Sapporo, Hokkaido 060-0818, Japan
+FEATURES             Location/Qualifiers
+     source          1..2589
+                     /organism="Falco peregrinus"
+                     /mol_type="mRNA"
+                     /db_xref="taxon:8954"
+     gene            1..2589
+                     /gene="AhR"
+     CDS             1..2589
+                     /gene="AhR"
+                     /codon_start=1
+                     /product="aryl hydrocarbon receptor"
+                     /protein_id="BAJ33495.1"
+                     /translation="MNPNVTYASRKRRKPVQKIVKPSPAEGVKSNPSKRHRDRLNAEL
+                     DRLASLLPFPQDVIAKLDKLSVLRLSVSYLRAKSFFDVALKSSNSARPERNGIQENCR
+                     TAKCGEGMQILEGELLLQALNGFVLVVTADALVFYVSSTIQDYLGFQQSDIIHQSVFE
+                     LIHTEDRPEFQRQLHWALNPAQSADSGPSIQGDNGFSQPATYYNPDQLPPENSSFMER
+                     NFICRLRCLLDNSSGFLAMNFQGRLKFLHGQNKKGKDGATLSPQLALFAVATPLQPPS
+                     ILEIRTKNFIFRTKHKLDFTPTGCDAKGKIVLGYTEAELCMRGTGYQFVHAADMLYCA
+                     ENHVRMMKTGESGMTVFRLLTKENRWAWVQANARLVYKNGRPDYIIATQRPLTDEEGA
+                     EHLRKRNMKLPFMFATGEAVLYEVSFPMSSLMDPSQPKNKSTTGKGAKATLHNDSVDP
+                     NSLLGAMLRQDESVYLCPPASHKLSFERNFFADSRDELGSVVNSGWMDNLLPAGNHNI
+                     LKRELMECSQDNTVPLPEDSAALFQDNKTSDLYSIMKNLGIDFEDLKCIQQDEEFFKT
+                     ELSDVDDIGDINITDEILTYVQDSLNKSDFLYSGCNQQQPLVQNEGCLLQQELEPHQL
+                     HQHQKQLMEQQQQQQQLCQKMKHMQVNGMFTNWSSGTSMPLSCSQQQPQPPQQYAFPG
+                     MHATTSEFAYKSEVNTSPYACRQEFIPYKQPTAMMPQLSNFAQMDFPVAGFDRSTYSA
+                     SSSLEDFLSCLQQVPENHECGINSESVMLTPQTCYAGAVSMYQCTQEAQPSCMDQMQY
+                     DPMTASQQTLLNKFQNGFNGGNVNEAYPSQLDVISNAQTATHLQPLHHPTEPRSFSDL
+                     ASSGFM"
+ORIGIN      
+        1 atgaacccca atgtcaccta cgccagtcgc aagcggcgga aacctgtgca gaaaatagta
+       61 aagccatctc cagctgaagg agtcaagtcc aatccatcca aaagacacag ggaccgcttg
+      121 aatgcagagt tggaccgctt ggctagcctt ctgcctttcc ctcaagatgt tatcgccaag
+      181 ttggataagc tgtctgtcct taggctcagt gtcagttacc tgagagccaa aagttttttt
+      241 gacgttgcat taaaatcttc taactctgca agaccagaaa gaaatggcat tcaggaaaac
+      301 tgtagaacag caaaatgtgg agaagggatg cagatcctgg aaggagaact cttactgcag
+      361 gcattaaatg gttttgtgtt agttgttacg gccgatgctc tggtctttta cgtctcttct
+      421 actatccaag actatttggg gttccaacaa tctgatatta tacaccagag tgtatttgaa
+      481 ttgattcaca cagaagacag acctgagttt caacgacagc tacattgggc attaaatcct
+      541 gcccagtctg cagattctgg accaagcata caaggagata atggcttttc acagccagca
+      601 acctattata acccagacca acttcctccg gagaattctt cctttatgga aaggaatttc
+      661 atctgcaggt tacgatgcct cctggataat tcatctgggt tcttggctat gaattttcaa
+      721 ggacgattaa agtttcttca tggacaaaac aagaaaggga aagatggagc tactttgtct
+      781 cctcagcttg ctctgtttgc agtagccact cccctgcagc caccatctat ccttgagata
+      841 cgaaccaaaa acttcatctt cagaacgaaa cacaaactgg atttcacacc tactggctgt
+      901 gatgcaaaag gaaagattgt cctgggatat actgaagcag agctgtgtat gagaggaaca
+      961 ggataccagt ttgttcatgc agctgatatg ctttattgtg ctgaaaatca tgtccgaatg
+     1021 atgaagacag gtgagagtgg aatgactgta tttaggcttc taaccaaaga aaatcgatgg
+     1081 gcctgggtac aggcaaatgc acgtcttgtc tacaaaaatg gaagaccaga ttacatcatt
+     1141 gccacgcaaa gacctcttac agatgaagaa ggggcagaac acctacggaa gcgtaacatg
+     1201 aagttaccct tcatgtttgc cactggtgag gctgtgttat atgaggtgtc tttccctatg
+     1261 tcgagcctta tggatccctc tcagccgaag aacaaaagca caacaggaaa aggagccaaa
+     1321 gcaacgctac acaatgattc tgtggaccca aactccctct taggtgccat gttaagacaa
+     1381 gatgagtctg tgtatctctg ccctccagca tcacataaac tttcctttga gcggaacttc
+     1441 tttgcagaca gcagggatga actgggcagt gttgttaaca gtggctggat ggataatctc
+     1501 ctacctgctg gaaatcacaa cattctcaaa cgggagctaa tggagtgttc ccaggacaat
+     1561 actgttccgc ttcctgaaga cagtgcagca ctctttcaag ataacaaaac cagtgatttg
+     1621 tacagcatca tgaaaaatct gggtattgac tttgaagatc taaagtgtat tcagcaggat
+     1681 gaggagtttt ttaaaactga attatctgat gtagatgata ttggggacat caacataact
+     1741 gacgaaatcc tgacttatgt tcaggattcc ttaaataagt ctgacttctt atattcaggc
+     1801 tgtaaccagc agcaacccct tgtccagaat gaaggctgct tgctacagca agagttagag
+     1861 ccacatcaac ttcatcagca ccagaaacag ctcatggagc agcagcagca gcagcagcag
+     1921 ctctgtcaaa agatgaaaca tatgcaagtc aatgggatgt tcacaaattg gagctctggc
+     1981 accagcatgc ctcttagctg ctcacagcag cagccgcagc cgccccagca atatgcattc
+     2041 cctggcatgc atgccactac atccgagttc gcttacaaat cagaagtaaa cacttcccct
+     2101 tatgcctgta ggcaagagtt tattccttac aagcaaccca cagcaatgat gccgcagctt
+     2161 tcaaattttg ctcagatgga tttccctgta gcaggttttg acagatcgac ttactctgct
+     2221 tcttccagcc tggaggattt tcttagctgt ttgcagcaag tccctgaaaa tcatgagtgt
+     2281 ggtataaact ctgagtcggt tatgctaact cctcaaacgt gctatgcagg tgctgtttct
+     2341 atgtaccagt gcacgcaaga agcacagccc agctgcatgg atcaaatgca gtatgaccct
+     2401 atgacggcaa gtcagcaaac gttgttgaac aagttccaaa acggtttcaa tggaggaaat
+     2461 gtaaatgaag catatccctc tcagctagat gtgatcagta atgcacagac tgccacacat
+     2521 cttcagcctc ttcatcatcc gacagaaccc agatccttct cagatttggc atctagtgga
+     2581 tttatgtaa
+//
+
+LOCUS       AB560861                2424 bp    mRNA    linear   VRT 16-NOV-2010
+DEFINITION  Falco peregrinus Arnt mRNA for aryl hydrocarbon receptor nuclear
+            translocator, complete cds.
+ACCESSION   AB560861
+VERSION     AB560861.1
+KEYWORDS    .
+SOURCE      Falco peregrinus (peregrine falcon)
+  ORGANISM  Falco peregrinus
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Archelosauria; Archosauria; Dinosauria; Saurischia; Theropoda;
+            Coelurosauria; Aves; Neognathae; Neoaves; Telluraves; Australaves;
+            Falconiformes; Falconidae; Falco.
+REFERENCE   1
+  AUTHORS   Fujisawa,N., Ikenaka,Y. and Ishizuka,M.
+  TITLE     Molecular explanation of AhR ligand insensitivity of peregrine
+            falcon (Falco peregrines)
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 2424)
+  AUTHORS   Fujisawa,N., Ikenaka,Y. and Ishizuka,M.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (13-MAY-2010) Contact:Mayumi Ishizuka Hokkaido
+            University, Graduate School of Veterinary Medicine; Kita18 Nishi9,
+            Kitaku, Sapporo, Hokkaido 060-0818, Japan
+FEATURES             Location/Qualifiers
+     source          1..2424
+                     /organism="Falco peregrinus"
+                     /mol_type="mRNA"
+                     /db_xref="taxon:8954"
+     gene            1..2424
+                     /gene="Arnt"
+     CDS             1..2424
+                     /gene="Arnt"
+                     /codon_start=1
+                     /product="aryl hydrocarbon receptor nuclear translocator"
+                     /protein_id="BAJ33497.1"
+                     /translation="MAATAANPEMASDVSSLGAAVSSRNPGAGAQAGGAIVQRANKRR
+                     SGLDFDDDGEGNSKFLRCDDDLTSNDKERFARSDDEQSSTDKERFARENHSEIERRRR
+                     NKMTAYITELSDMVPTCSALARKPDKLTILRMAVSHMKSLRGTGNTSTDGTYKPSFLT
+                     DQELKHLILEAADGFLFIVSCETGRVVYVSDSVTPVLNQPQSEWFGSTLYDQVHPDDV
+                     GKLREQLSTSENALTEGTKPWCLSNKDPAAPPENASKGRILDLKTGTVKKEGQQSMRM
+                     CMGSRRSFICRMRCGNSSVDPVSVNRLSFMRNRCRNGLGAAKDGEPHYVVVHCTGYIK
+                     AWPPAGVSLPDDDPDAGQGSKFCLVAIGRLQVTSSPNCTDMNNVCQPTEFISRHNTEG
+                     IFTFIDHRCVATVGYQPQELLGKDIVDFCHPEDQQLLRDSFQQVVKLKGQVLSVMFRF
+                     RSKNREWLWMRTSSFTFQNPYSDEIEYIICTNTNVKNSSQESRPALSNSMQRPQLGQS
+                     VNLPLEMGTAQLPSRQQQPPQQTELEVVPGRESLSGYDHSQVPVQPVTAAGPEHSKPL
+                     EKAESLFNQERDPRFSEIYSSINADQNKALPASTVPANQPLFTQGNTFTPPRPAENFR
+                     SSSMVPPVNIIQQQPSSAGRILAQISRHSSPAQVSGTNWAPGTRPVFTPQQVGSQTVK
+                     TRPPSFSMGTFQGTPSSFSPMTAPGSTASPTGAAYPNLASRGTGFTTEAAQTPSTFEP
+                     RAAEGVGMWPQWQGQHHGPASGEQHVQQPQPSQPEVFSDMLTMLGDQGPNYNNEEFPE
+                     LNIFPSFSE"
+ORIGIN      
+        1 atggcagcca ccgccgccaa cccggaaatg gcatcagatg tttcctcgct gggtgcagct
+       61 gtcagctcta ggaaccctgg agcgggtgcg caggctggag gggccatcgt tcagagagcc
+      121 aacaagcggc gctctgggct tgattttgat gatgatggag aagggaacag taaattcctc
+      181 agatgcgatg atgacctgac gtcaaatgat aaagagagat ttgccaggtc tgatgatgaa
+      241 cagagttcaa cggataaaga gagatttgcc agggaaaatc acagcgagat tgaacgtagg
+      301 cgaaggaaca agatgaccgc ctacatcaca gagctctcgg acatggtgcc cacctgcagc
+      361 gccctggccc gcaaaccaga caagctcacc atcttgcgca tggctgtctc tcacatgaag
+      421 tcgctgcgtg gcacaggcaa tacctccact gacggcacct acaaaccctc ctttctcact
+      481 gaccaggagc tcaaacacct gatcctagag gcggccgacg gctttctgtt catagtgtct
+      541 tgtgagactg ggagggtggt ctacgtctcc gattctgtga ctcctgtcct gaaccagccc
+      601 cagtccgagt ggtttggcag caccctctac gaccaggtgc acccggatga cgtgggcaag
+      661 ctgagggagc agctttccac atcggagaac gcgctgacag aaggaaccaa accttggtgc
+      721 ctttctaaca aggatcctgc agccccccct gagaatgcat ctaaaggtcg catcctcgat
+      781 ttgaagactg ggactgtcaa gaaggaaggc cagcagtcca tgaggatgtg tatgggttca
+      841 cgaagatctt tcatctgccg aatgaggtgt ggcaacagct cagtggatcc agtctctgta
+      901 aatcgtctca gctttatgag gaatcgctgc aggaatggct taggtgcagc aaaagatggt
+      961 gaacctcact acgttgtggt gcactgcacg ggttacataa aagcctggcc ccctgcaggt
+     1021 gtttcgctgc ctgatgatga cccagacgct ggccagggca gcaagttttg ccttgtggct
+     1081 atcggcaggc tccaggtcac cagctcaccc aactgcacag acatgaacaa tgtttgtcag
+     1141 ccaacagagt tcatctcccg acacaacacc gaaggcattt tcactttcat cgatcaccgg
+     1201 tgtgtggcta cagttggcta ccagccgcag gaacttctgg ggaaagacat tgtggatttc
+     1261 tgccacccgg aagaccagca gcttttgcgg gacagctttc agcaggtggt gaagttaaaa
+     1321 ggccaggttc tgtcagtcat gttccgattc cgatccaaaa accgggaatg gctctggatg
+     1381 agaaccagct cctttacctt ccagaacccc tactcggatg aaattgagta catcatctgt
+     1441 accaacacca acgtcaagaa ctcgagccag gagtctcgac ctgccctgtc aaactcaatg
+     1501 cagaggcccc agctggggca gagtgtcaac cttcccctgg agatgggcac ggcacagctg
+     1561 ccctcaaggc agcagcagcc gccacaacag acagagctgg aagtggtccc aggaagagag
+     1621 agcctgtctg gttatgacca ctcacaggtt cccgttcagc ctgtgactgc tgccggccca
+     1681 gagcacagca agcccttgga gaaggcagag agccttttta atcaggagcg ggacccaagg
+     1741 ttcagcgaaa tctacagcag tatcaacgca gaccagaaca aagcccttcc tgccagcaca
+     1801 gtgcctgcca accagcccct cttcacgcag ggaaacacct tcaccccacc acgacctgct
+     1861 gagaacttca ggagcagcag catggtacct cctgtcaaca ttattcagca gcagccctcg
+     1921 tcagcgggcc ggatcttagc acagatttca cgccactcca gcccagctca ggtcagcgga
+     1981 accaactggg ctccagggac acggccggtg ttcacgcccc agcaagtggg gtcccagact
+     2041 gtgaagactc ggcccccttc cttcagcatg gggactttcc aaggcacccc gtcttccttc
+     2101 agtcccatga cagcacctgg ctctacggct tctcctaccg gcgctgctta cccgaacctt
+     2161 gccagccgtg gcaccggctt caccacggaa gcggcgcaga cgcccagcac attcgagccg
+     2221 cgggcagccg aaggcgtggg gatgtggccg cagtggcaag gacagcacca tggcccagcg
+     2281 tctggggagc aacacgtgca gcagccgcag ccaagccagc ctgaggtctt ctcagacatg
+     2341 ctgacgatgc tgggagacca aggacccaac tacaacaacg aagagttccc agagctgaac
+     2401 atattccctt ctttttcaga gtaa
+//
+
+LOCUS       KF557766                2196 bp    mRNA    linear   VRT 23-APR-2015
+DEFINITION  Falco peregrinus opioid receptor kappa 1 (ORK1) mRNA, complete cds.
+ACCESSION   KF557766
+VERSION     KF557766.2
+KEYWORDS    .
+SOURCE      Falco peregrinus (peregrine falcon)
+  ORGANISM  Falco peregrinus
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Archelosauria; Archosauria; Dinosauria; Saurischia; Theropoda;
+            Coelurosauria; Aves; Neognathae; Neoaves; Telluraves; Australaves;
+            Falconiformes; Falconidae; Falco.
+REFERENCE   1  (bases 1 to 2196)
+  AUTHORS   Raiwet,D.L., Duhamelle,A., Fitzgerald,G. and Silversides,D.W.
+  TITLE     Opioid receptor gene expression in the peregrine falcon
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 2196)
+  AUTHORS   Raiwet,D.L., Duhamelle,A., Fitzgerald,G. and Silversides,D.W.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (20-AUG-2013) Veterinary Biomedicine, Faculty of
+            Veterinary Medicine, 3200 Sicotte, St-Hyacinthe, Quebec J2S 7C6,
+            Canada
+REFERENCE   3  (bases 1 to 2196)
+  AUTHORS   Raiwet,D.L., Duhamelle,A., Fitzgerald,G. and Silversides,D.W.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (23-APR-2015) Veterinary Biomedicine, Faculty of
+            Veterinary Medicine, 3200 Sicotte, St-Hyacinthe, Quebec J2S 7C6,
+            Canada
+  REMARK    Sequence update by submitter
+COMMENT     On Apr 23, 2015 this sequence version replaced KF557766.1.
+            
+            ##Assembly-Data-START##
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..2196
+                     /organism="Falco peregrinus"
+                     /mol_type="mRNA"
+                     /specimen_voucher="FP7299"
+                     /db_xref="taxon:8954"
+                     /geo_loc_name="Canada: Quebec"
+     gene            <1..2196
+                     /gene="ORK1"
+     5'UTR           <1..6
+                     /gene="ORK1"
+     CDS             7..1152
+                     /gene="ORK1"
+                     /note="includes exons 1 through 3"
+                     /codon_start=1
+                     /product="opioid receptor kappa 1"
+                     /protein_id="AGY80776.1"
+                     /translation="MDAPVQIFREETESTCSPVPCRAPSTSGSWLLGWVDYDSNATGA
+                     FGGTQHNHTSISPAIPIIITAVYSVVFVVGLVGNSLVMFVIIRYTKMKTATNIYIFNL
+                     AMADALVTTTMPFQSTEYLMNSWPFGDVLCKIVISIDYYNMFTSIFTLTMMSVDRYIA
+                     VCHPVKALDFRTPLKAKIINICIWLLSSSVGISAIVLGGTKVREDTASTECSLQFPDR
+                     DYVWWDIFMKICVFVFAFVIPVLIIIICYTLMILRLKSVRLLSGSREKDRNLRRITRL
+                     VLVVVAVFIICWTPIHIFVLVEALGDVSHSTAAISSYYFCIALGYTNSSLNPILYAFL
+                     DENFKRCFKDFCFPFKMRLDRQSTSRVRNTVQDPAYTREADGTNKPV"
+     3'UTR           1153..2196
+                     /gene="ORK1"
+     polyA_site      1356
+                     /gene="ORK1"
+     polyA_site      2196
+                     /gene="ORK1"
+ORIGIN      
+        1 gtccctatgg atgccccggt acagattttc cgggaggaga cagaatccac ctgctccccg
+       61 gtgccctgtc gtgcccccag caccagcggc agctggctcc tgggctgggt ggactacgac
+      121 agcaatgcca ccggggcctt cggtggcacc cagcacaacc acaccagcat ctcccctgcc
+      181 atccccatca tcatcactgc tgtctactcg gtggtcttcg ttgttggttt ggtgggaaat
+      241 tctctggtca tgtttgtcat cataagatac acaaagatga agacagcaac caacatctac
+      301 attttcaatc tggctatggc agatgcacta gttaccacga ctatgccttt ccaaagcact
+      361 gagtacctga tgaactcttg gccctttggt gatgtgctct gtaaaatagt tatttcaatt
+      421 gactattata acatgtttac cagcatattc acactgacca tgatgagtgt tgatcgatac
+      481 attgccgtgt gtcaccctgt gaaggctctg gacttccgta cacctctcaa ggcgaagata
+      541 atcaacatct gtatctggct attgtcctca tctgttggta tatctgcaat agttcttgga
+      601 ggtaccaaag tcagggaaga cactgctagc actgaatgtt ccttgcagtt tccagacaga
+      661 gattacgtat ggtgggacat cttcatgaaa atctgtgtct ttgtctttgc atttgttatt
+      721 ccagttctca ttataattat ttgctatact ctgatgatcc tacgccttaa aagcgtacgc
+      781 cttctctctg gttctcgaga aaaagatcga aacctgcgcc gcatcaccag gttggttctt
+      841 gtggttgtgg cagtttttat tatctgttgg actcctattc atatttttgt gctggttgaa
+      901 gcattagggg atgtgtccca cagtactgct gctatatcca gctattactt ctgtattgct
+      961 ttgggttaca ccaacagcag cctcaatcca atcctttacg cttttttgga tgaaaacttc
+     1021 aagagatgtt tcaaggactt ctgcttcccc tttaagatga ggctagacag gcagagcact
+     1081 agcagagtca gaaacactgt tcaagaccca gcttatacga gggaagcaga tgggacaaac
+     1141 aaacctgtat gactagtcgt ggaaatgtca tcttactgtc ctcaagaaag agaagagtcc
+     1201 aatgacctag gactgacgca gattaccact gcagtttgaa ctggactgac ctagacagat
+     1261 gtttctggaa tattttagaa acccaagtag ttcaaactaa agcaagttta ttatcaacaa
+     1321 acaagaacat cctgaaaata aactcaaatg aaaaggacct ggtcaggttt tggcaccatg
+     1381 cttgttgtgc ttgagctggt accagcacac acttttgagg aagacaggag ataatgctgt
+     1441 accagctgat tccagataac gaaagttctg gcttttctct ttacaataca taaggttaca
+     1501 ttaagcaaca tttggtcata acactgagtt atgccacaga cttctgtccc gatagtgatt
+     1561 gcttctgaac tatgtagttt gataacttga tctgtcatac tcttttacag tgaagggtgt
+     1621 tgcagaacaa tgccagagct ataatcaata ttgtcctcaa ctagtatatc tgtaacattt
+     1681 gtctgcactg tggaaatcca atttaagcat gatctatctg cctacacacc aaagtgattt
+     1741 agtgtctgtg tatggtaaaa tattttggca tttacaaata ctggaattta aggaggatcg
+     1801 ttagtatatt tttagcacgt gtttaatcac ctgtgtgtaa atgttttcta tgtgtgattt
+     1861 tccaagatga ttgtgtacat attgatcgtg aataatataa tatgcatttt cagaatgtat
+     1921 tttgaaccag aggctagaaa actttaaata cttcatgtgt tacaaaactg atgaaaagcc
+     1981 atgccacatt cattatatgg gggaaaagaa tctcatccca ttttcattaa aggggacaaa
+     2041 tgggcacact taaaaataac gctgtactcg ttttcctgga caatttgtca gcagacttaa
+     2101 ataaatattt gatgagttag aaactggtga attagcacat ggattagctg gattgataca
+     2161 aaggaaatga ataaatatac tggattcttt aatggc
+//
+
+LOCUS       KR269733                 810 bp    mRNA    linear   VRT 04-JUL-2015
+DEFINITION  Falco peregrinus clone B opioid receptor Kappa 1 isoform B (OPRK1)
+            mRNA, complete cds, alternatively spliced.
+ACCESSION   KR269733
+VERSION     KR269733.1
+KEYWORDS    .
+SOURCE      Falco peregrinus (peregrine falcon)
+  ORGANISM  Falco peregrinus
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Archelosauria; Archosauria; Dinosauria; Saurischia; Theropoda;
+            Coelurosauria; Aves; Neognathae; Neoaves; Telluraves; Australaves;
+            Falconiformes; Falconidae; Falco.
+REFERENCE   1  (bases 1 to 810)
+  AUTHORS   Raiwet,D.L., Duhamelle,A., Fitzgerald,G. and Silversides,D.W.
+  TITLE     Opioid receptor gene expression in the Peregrine Falcon
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 810)
+  AUTHORS   Raiwet,D.L., Duhamelle,A., Fitzgerald,G. and Silversides,D.W.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (24-APR-2015) Veterinary Biomedicine, Faculty of
+            Veterinary Medicine, 3200 Sicotte, St-Hyacinthe, Quebec J2S 7C6,
+            Canada
+COMMENT     ##Assembly-Data-START##
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..810
+                     /organism="Falco peregrinus"
+                     /mol_type="mRNA"
+                     /specimen_voucher="AD.7.13"
+                     /db_xref="taxon:8954"
+                     /clone="B"
+                     /geo_loc_name="Canada: Quebec"
+     gene            1..810
+                     /gene="OPRK1"
+     CDS             7..648
+                     /gene="OPRK1"
+                     /note="alternatively spliced"
+                     /codon_start=1
+                     /product="opioid receptor Kappa 1 isoform B"
+                     /protein_id="AKN79680.1"
+                     /translation="MDAPVQIFREETESTCSPVPCRAPSTSGSWLLGWVDYDSNATGA
+                     FGGTQHNHTSISPAIPIIITAVYSVVFVVGLVGNSLVMFVIIRYTKMKTATNIYIFNL
+                     AMADALVTTTMPFQSTEYLMNSWPFGDVLCKIVISIDYYNMFTSIFTLTMMSVDRYIA
+                     VCHPVKALDFRTPLKAKIINICIWLLSSSVGISAIVLGGTKVREAISENLKAW"
+ORIGIN      
+        1 gtccctatgg atgccccggt acagattttc cgggaggaga cagaatccac ctgctccccg
+       61 gtgccctgtc gtgcccccag caccagcggc agctggctcc tgggctgggt ggactacgac
+      121 agcaatgcca ccggggcctt cggtggcacc cagcacaacc acaccagcat ctcccctgcc
+      181 atccccatca tcatcactgc tgtctactcg gtggtcttcg ttgttggttt ggtgggaaat
+      241 tctctggtca tgtttgtcat cataagatac acaaagatga agacagcaac caacatctac
+      301 attttcaatc tggctatggc agatgcacta gttaccacga ctatgccttt ccaaagcact
+      361 gagtacctga tgaactcttg gccctttggt gatgtgctct gtaaaatagt tatttcaatt
+      421 gactattata acatgtttac cagcatattc acactgacca tgatgagtgt tgatcgatac
+      481 attgccgtgt gtcaccctgt gaaggctctg gacttccgta cacctctcaa ggcgaagata
+      541 atcaacatct gtatctggct attgtcctca tctgttggta tatctgcaat agttcttgga
+      601 ggtaccaaag tcagggaagc catttcagag aacttgaagg catggtgaac aaaggaaaag
+      661 tctggagaaa gaaaatcaag ctaaatgata catgcatgac tgcaatgcag gagcacctca
+      721 gtgtcttcaa aaggtttgaa tcctctaatg atgtccttgg gttggggcca tcttgttaat
+      781 ggatggctca ataaaataca agacaagcat
+//
+
+LOCUS       KM876092                2346 bp    DNA     linear   VRT 26-OCT-2014
+DEFINITION  Falco peregrinus voucher ZMUC 115766 tRNA-Leu gene, complete
+            sequence; NADH dehydrogenase subunit 1 (ND1) gene, complete cds;
+            tRNA-Ile, tRNA-Gln, and tRNA-Met genes, complete sequence; and NADH
+            dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial.
+ACCESSION   KM876092
+VERSION     KM876092.1
+KEYWORDS    .
+SOURCE      mitochondrion Falco peregrinus (peregrine falcon)
+  ORGANISM  Falco peregrinus
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Archelosauria; Archosauria; Dinosauria; Saurischia; Theropoda;
+            Coelurosauria; Aves; Neognathae; Neoaves; Telluraves; Australaves;
+            Falconiformes; Falconidae; Falco.
+REFERENCE   1  (bases 1 to 2346)
+  AUTHORS   Fuchs,J., Johnson,J.A. and Mindell,D.P.
+  TITLE     Rapid diversification of falcons (Aves: Falconidae) due to
+            expansion of open habitats in the Late Miocene
+  JOURNAL   Mol. Phylogenet. Evol. (2014) In press
+   PUBMED   25256056
+  REMARK    Publication Status: Available-Online prior to print
+REFERENCE   2  (bases 1 to 2346)
+  AUTHORS   Fuchs,J., Johnson,J.A. and Mindell,D.P.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (02-OCT-2014) Museum National d'Histoire Naturelle,
+            Paris, France
+COMMENT     ##Assembly-Data-START##
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..2346
+                     /organism="Falco peregrinus"
+                     /organelle="mitochondrion"
+                     /mol_type="genomic DNA"
+                     /specimen_voucher="ZMUC 115766"
+                     /db_xref="taxon:8954"
+                     /geo_loc_name="Denmark"
+     tRNA            1..74
+                     /product="tRNA-Leu"
+                     /note="codons recognized: UUR"
+     gene            90..1064
+                     /gene="ND1"
+     CDS             90..1064
+                     /gene="ND1"
+                     /codon_start=1
+                     /transl_table=2
+                     /product="NADH dehydrogenase subunit 1"
+                     /protein_id="AIT96199.1"
+                     /translation="MTQPTPLMHLTMFLAYALPILIAVAFLTLVERKVLSYMQARKGP
+                     NIVGPFGLLQPVADGVKLFTKEPIRPSTSSPLLFTLTPMLALLLAISIWTPLPLPFSL
+                     ADLNLGLLFLLAMSSLAVYSILWSGWASNSKYALIGALRAVAQTISYEVTLAIILLSM
+                     IMLSGNYTLNTLATTQEPLYLIFSTWPLMMMWYISTLAETNRAPFDLTEGESELVSGF
+                     NVEYAAGPFALFFLAEYANIMLMNTLTAILFINPSSLGLPPELFPMILATKTLLLSFG
+                     FLWIRASYPRFRYDQLMHLLWKNFLPLTLALCLWHTSMPICYAGLPPA"
+     tRNA            1081..1153
+                     /product="tRNA-Ile"
+     tRNA            complement(1163..1233)
+                     /product="tRNA-Gln"
+     tRNA            1233..1304
+                     /product="tRNA-Met"
+     gene            1306..2346
+                     /gene="ND2"
+     CDS             1306..2346
+                     /gene="ND2"
+                     /codon_start=1
+                     /transl_table=2
+                     /product="NADH dehydrogenase subunit 2"
+                     /protein_id="AIT96200.1"
+                     /translation="MSPLTKLMFSLSLLLGTTITISSNHWMLAWTGLEINTLAIIPFI
+                     SKSHHPRAVEAAIKYFLVQATASALILFSSTINAQLTGQWDITQLTQPTASLLLTMAV
+                     AMKLGLVPFHFWFPEVMQGSPMTTALLLSTLMKLPPITILFLTAPSLNPSLLTTMAIA
+                     SAAVGGWMGLNQTQIRKILAFSSIAHLGWMTIILMYNPKLTMMTFYLYSLMTASIFLT
+                     LNTTNSLKLSTMMTSWTKTPALNTSLMLALLSLAGLPPLTGFLPKWLIIQELTKQEMS
+                     TTAMIISMLSLLGLFFYLRLAYCSTITLPPNTTNFMKQWYSNKPTNTPTAALISLSIL
+                     LLPLSPTILTIT"
+ORIGIN      
+        1 gctagtgtag caaagcctgg caaatgcaaa aggcttaaac cctttaacta gaggttcaaa
+       61 tcctctccct agctccccat aactcaatca tgacccaacc aacaccccta atgcacctta
+      121 ccatattctt agcctatgct cttccaatct taatcgccgt agccttccta acactagtag
+      181 aacgaaaagt cctaagctat atgcaagccc gaaaaggccc aaacattgtt ggcccctttg
+      241 gactcctaca accagtagca gatggcgtga aactatttac caaagaaccc atccgaccat
+      301 caacctcctc ccccttactc ttcaccctaa ccccaatact agccctcctt cttgcaattt
+      361 caatttgaac tcccctcccc ctacccttct ctcttgcaga cttgaacctg ggcctactat
+      421 tcctcttagc catgtcaagc ttagcagtat attcaatttt atgatcaggt tgggcttcaa
+      481 actcaaaata cgccctaatc ggcgccctcc gagcagtcgc acagaccatc tcatacgaag
+      541 taacactagc tatcatcctc ctctccataa tcatactaag tggaaactat accttaaaca
+      601 cccttgccac cacccaagaa cccctatacc taatcttctc cacctgaccc ctcataataa
+      661 tatgatacat ttccaccctt gctgaaacca accgcgcccc attcgatcta acagaggggg
+      721 aatccgaact agtctcaggc ttcaatgtag aatacgccgc aggtccattc gccttattct
+      781 tcctagctga gtacgcaaac attatactaa taaacacact caccgccatt cttttcatca
+      841 acccaagctc cctaggcctt cctccagaac tgtttccaat aatccttgcc acaaaaaccc
+      901 tcctcctctc ctttggtttt ctctgaattc gcgcctcata cccacgattt cgttacgacc
+      961 aacttatgca ccttctctga aaaaacttcc taccactaac tctagcccta tgcttatgac
+     1021 ataccagcat accaatctgc tatgcaggcc tcccccccgc ttaaaaatac acctacatga
+     1081 ggaaatgtgc ctgaacatct aagggtcact atgataaagt gaacatagag gtctaccaat
+     1141 cctctcattt ccttgcaaaa ccttaggaag acaggaattg aacctgcaca gaagagatca
+     1201 aaaccctcca tactcccctt atattacttc ctagtagggt cagctaaaca taaagctatc
+     1261 gggcccatac cccgaaaatg atggtttaac cccttcctct actaaatgag ccccctcaca
+     1321 aaactaatat tctccttaag ccttctactg ggaacaacca ttacaatttc aagcaaccac
+     1381 tgaatactag cttgaactgg gttagaaatc aacacccttg ccattatccc cttcatttca
+     1441 aaatcacatc accctcgagc tgtcgaagct gcaatcaaat actttctcgt ccaagcaacc
+     1501 gcctccgcac taatcctttt ctcaagcaca atcaacgcac agctcaccgg acaatgggac
+     1561 attacccaat taacccaacc aacagcctcc ctcctactga ctatagcagt agcaataaaa
+     1621 ctaggactag tacccttcca tttctgattt ccagaggtca tgcaaggctc acccataacc
+     1681 accgccctac tcctctccac attaataaaa ctccccccca tcactatttt attcttaact
+     1741 gccccctcac taaacccgtc tctgctaaca accatagcca tcgcatccgc agctgtcgga
+     1801 ggatgaatag gactcaacca gacacaaatt cgaaaaatcc tagccttctc atcaatcgcc
+     1861 cacctgggct gaataaccat tattctcata tacaacccta aactaacaat aataaccttc
+     1921 tacttatact ccctaataac tgcctccatt ttcttaaccc tcaacacaac caactcatta
+     1981 aaactatcca caataataac ctcctgaaca aaaacaccag cactaaacac atccctaata
+     2041 ctagcactgt tatccctagc tggcctacct ccactcactg gcttcttacc aaaatgactc
+     2101 atcattcaag aattaactaa acaagagata tcaaccacag ccataattat ctcaatactc
+     2161 tccctactag gcttattttt ctacctacgc cttgcatatt gctctacaat cacacttcca
+     2221 cctaacacca caaatttcat aaaacaatga tacagtaaca aacctacaaa cacgccaacc
+     2281 gctgccctaa tttccctatc aatccttctc ctcccccttt ctcccacaat cttaaccatc
+     2341 acctaa
+//
+
+LOCUS       KC222014                 639 bp    mRNA    linear   PLN 06-MAR-2013
+DEFINITION  Malus x domestica cultivar Red Fuji metallothionein type 2 (MT2)
+            mRNA, complete cds.
+ACCESSION   KC222014
+VERSION     KC222014.1
+KEYWORDS    .
+SOURCE      Malus domestica (apple)
+  ORGANISM  Malus domestica
+            Eukaryota; Viridiplantae; Streptophyta; Embryophyta; Tracheophyta;
+            Spermatophyta; Magnoliopsida; eudicotyledons; Gunneridae;
+            Pentapetalae; rosids; fabids; Rosales; Rosaceae; Amygdaloideae;
+            Maleae; Malus.
+REFERENCE   1  (bases 1 to 639)
+  AUTHORS   Zhong,Z., Chen,J. and Yuan,Y.
+  TITLE     Molecular cloning and expression analysis of metallothionein
+            protein gene from apple (Malus x domestica)
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 639)
+  AUTHORS   Zhong,Z., Chen,J. and Yuan,Y.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (27-NOV-2012) Horticulture Department, Qingdao
+            Agriculture University, No. 700, Changcheng Rd, Qingdao, Shandong
+            266109, China
+COMMENT     ##Assembly-Data-START##
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..639
+                     /organism="Malus domestica"
+                     /mol_type="mRNA"
+                     /cultivar="Red Fuji"
+                     /db_xref="taxon:3750"
+                     /PCR_primers="fwd_name: f-mdmt2, fwd_seq:
+                     ttcaaaacagagcttgcgtttatctgc, rev_name: r-mdmt2, rev_seq:
+                     ggagcaagtttttcattaatttmatcag"
+     gene            1..639
+                     /gene="MT2"
+                     /note="MdMT2"
+     CDS             89..328
+                     /gene="MT2"
+                     /codon_start=1
+                     /product="metallothionein type 2"
+                     /protein_id="AGG38011.1"
+                     /translation="MSSCCGGKCGCGSGCSCGSGCNGCGMAPDLSYMEGSTTETLVMG
+                     VAPQKSHMEASEMGVAAENGCKCGDNCTCNPCNCK"
+ORIGIN      
+        1 ttcaaaacag agcttgcgtt tatctgcttc tgtgtcatca attcaatcaa actttccgct
+       61 gtgaaatttt caatctccaa ttccaaaaat gtcgtcgtgc tgcggtggta aatgtggttg
+      121 cgggtccggc tgcagctgcg gcagtggctg caacgggtgt gggatggctc ctgatctgag
+      181 ctacatggag gggtccacca ctgagaccct cgtcatggga gttgctcccc agaagtctca
+      241 catggaggca tctgagatgg gagttgctgc cgagaacgga tgcaagtgcg gagacaactg
+      301 cacctgcaac ccctgcaact gcaagtgaga gggacagatg tcaccttctg atgaagcaag
+      361 agaatcgcgg ggcttgtatg tttagcagta atatatgtat gcgtgtgtgt cgtaatcatg
+      421 catcatgatc caaatttacg aaggtcgtgt ttttagaata aagtggccat ggcttcttct
+      481 gagctgcacg tcctactagg ctaggatctg gtcctaggtt atggctgctt gttgtctgtt
+      541 tgctttgtac atgcagtagt cgtatttgtg tttttatgtt gtgttaactt ggtggatggt
+      601 attatgtgtt tctgatgaaa ttaatgaaaa acttgctcc
+//
+
+LOCUS       KC222013                 495 bp    mRNA    linear   PLN 06-MAR-2013
+DEFINITION  Malus x domestica cultivar Red Fuji metallothionein type 3 (MT3)
+            mRNA, complete cds.
+ACCESSION   KC222013
+VERSION     KC222013.1
+KEYWORDS    .
+SOURCE      Malus domestica (apple)
+  ORGANISM  Malus domestica
+            Eukaryota; Viridiplantae; Streptophyta; Embryophyta; Tracheophyta;
+            Spermatophyta; Magnoliopsida; eudicotyledons; Gunneridae;
+            Pentapetalae; rosids; fabids; Rosales; Rosaceae; Amygdaloideae;
+            Maleae; Malus.
+REFERENCE   1  (bases 1 to 495)
+  AUTHORS   Zhong,Z., Chen,J. and Yuan,Y.
+  TITLE     Molecular cloning and expression analysis of metallothionein
+            protein gene from apple (Malus x domestica)
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 495)
+  AUTHORS   Zhong,Z., Chen,J. and Yuan,Y.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (27-NOV-2012) Horticulture Department, Qingdao
+            Agriculture University, No. 700, Changcheng Rd, Qingdao, Shandong
+            266109, China
+COMMENT     ##Assembly-Data-START##
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..495
+                     /organism="Malus domestica"
+                     /mol_type="mRNA"
+                     /cultivar="Red Fuji"
+                     /db_xref="taxon:3750"
+                     /PCR_primers="fwd_name: f-mdmt3, fwd_seq:
+                     acagcaagcaaaatacccttcgagc, rev_name: r-mdmt3, rev_seq:
+                     agagagccaaagcmtgtattctaat"
+     gene            1..495
+                     /gene="MT3"
+                     /note="MdMT3"
+     CDS             74..274
+                     /gene="MT3"
+                     /codon_start=1
+                     /product="metallothionein type 3"
+                     /protein_id="AGG38010.1"
+                     /translation="MSGKCDNCDCADSTQCVKKGNSYDLVIVETENRSMDTVFVDAPA
+                     AEHDGKCKCGTGCSCVSCTCGH"
+ORIGIN      
+        1 acagcaagca aaataccctt cgagctaaac cctaaaacac acttcagttc caagttctaa
+       61 gttcatctgc aacatgtcgg ggaagtgcga caactgcgac tgcgctgaca gcacccagtg
+      121 cgtgaagaag ggaaacagct acgacttggt gatcgttgag actgagaacc gctccatgga
+      181 caccgtcttc gtggatgctc ctgccgccga gcacgacgga aagtgcaagt gtggcacagg
+      241 ctgctcatgt gtgagctgca cctgtggtca ctaaacccat acaaccaaat taaagatgta
+      301 aacgaataaa gtgtttgtgg gaaaacaacg ttgtggcttt gtctttggtt tgtttatagt
+      361 atttgtgtct gttgagtgac atgtagtgtc tgtgaaaacc tgtcactgtc tctgtgattg
+      421 tgtcatataa tcgccatgtt cgtggtcttg tgatgttatg aaatgatatt attagaatac
+      481 aggctttggc tctct
+//
+
+LOCUS       JX276381                1635 bp    mRNA    linear   PLN 18-JAN-2013
+DEFINITION  Malus x domestica gamma-aminobutyrate transaminase 2 (GABA-T2)
+            mRNA, complete cds.
+ACCESSION   JX276381
+VERSION     JX276381.1
+KEYWORDS    .
+SOURCE      Malus domestica (apple)
+  ORGANISM  Malus domestica
+            Eukaryota; Viridiplantae; Streptophyta; Embryophyta; Tracheophyta;
+            Spermatophyta; Magnoliopsida; eudicotyledons; Gunneridae;
+            Pentapetalae; rosids; fabids; Rosales; Rosaceae; Amygdaloideae;
+            Maleae; Malus.
+REFERENCE   1  (bases 1 to 1635)
+  AUTHORS   Trobacher,C.P., Clark,S.M., Bozzo,G.G., Mullen,R.T., DeEll,J.R. and
+            Shelp,B.J.
+  TITLE     Catabolism of GABA in apple fruit: Subcellular localization and
+            biochemical characterization of two gamma-aminobutyrate
+            transaminases
+  JOURNAL   Postharvest Biol. Technol. 75, 106-113 (2013)
+REFERENCE   2  (bases 1 to 1635)
+  AUTHORS   Trobacher,C.P., Bozzo,G.G. and Shelp,B.J.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (05-JUL-2012) Plant Agriculture, University of Guelph, 50
+            Stone Road East, Guelph, Ontario N1G 2W1, Canada
+FEATURES             Location/Qualifiers
+     source          1..1635
+                     /organism="Malus domestica"
+                     /mol_type="mRNA"
+                     /cultivar="Empire"
+                     /isolation_source="fruit stored at 0 degrees C under 5%
+                     CO2 and 2% O2 for 8 weeks post-harvest"
+                     /db_xref="taxon:3750"
+                     /tissue_type="mature fruit"
+                     /note="authority: Malus x domestica Borkh."
+     gene            1..1635
+                     /gene="GABA-T2"
+                     /note="MdGABA-T2"
+     CDS             54..1598
+                     /gene="GABA-T2"
+                     /EC_number="2.6.1.19"
+                     /codon_start=1
+                     /product="gamma-aminobutyrate transaminase 2"
+                     /protein_id="AFS28621.1"
+                     /translation="MGISRFLRSNLRTQLVSSTKYAAVSRSPQEHLFMVPFLARSYST
+                     GSSVQKEEPTTVEKGLGFKGHDMLAPFTPGWQSTDLHPLIIEKSEGSYAYDSNGKKYL
+                     DALAGLWCTALGGNEPRLVAAATKQLNTLPFYHSFWNRTTRPSLDLAKELLETFTATK
+                     MAKAFFTNSGSEANDTQVKLVWYYNNALGRPDKKKFIARHKSYHGSTLIAASLSGLPA
+                     LHQKFDLPAPFVLHTDCPHYWRHHLPGETEEEFSTRLANNLENLILKEGPETIAAFIA
+                     EPVMGAGGVITPPATYFEKVQAVVKKYDILFIADEVICAFGRLGYMYGCDKYNIKPDL
+                     VSVAKALSSAYMPIGAVLVSPEVSDVIHSQSSKLGSFSHGFTYSGHPVACAVAIETLK
+                     IYKERNIVEQVRSIAPRFQDGVKAFSDSPIIGEIRGTGLILGTEFTDNKSPNDPFPAE
+                     WGVGAYFGAQCEKHGMLIRVAGDNIMMSPPFIMTPSEVDELISLYGKALKDTEEYVKE
+                     LKSKQK"
+ORIGIN      
+        1 ctctgcttct cctttgcatg ttttgctgca gaagataaaa gtaatttcaa aagatgggga
+       61 tcagccgttt tcttcgatcc aatctcagaa cccagcttgt ttcatctaca aaatatgctg
+      121 ctgtatctag aagtccacag gagcatctct ttatggttcc ctttctggcc cggtcctata
+      181 gtacagggtc atctgtgcaa aaggaagaac caacaactgt tgaaaaaggc ctcgggttca
+      241 agggccatga tatgcttgca cccttcacac ctgggtggca gagtactgat ttgcatcctt
+      301 tgattataga aaagtctgag ggtagctatg cttatgacag caatgggaag aagtatcttg
+      361 atgctcttgc gggtctatgg tgcacagcat taggtggaaa tgaacctcga ctggttgcgg
+      421 ctgcaactaa acagttgaat accttgccat tttaccactc attttggaat cgtactacta
+      481 gaccatcttt ggacttggca aaagaacttc tagaaacttt tacagctaca aaaatggcaa
+      541 aagccttctt tactaatagt ggatctgaag ccaatgatac tcaggtgaag ctggtttggt
+      601 attataataa tgcacttgga cgcccagata aaaaaaaatt catagctcga cataaatcgt
+      661 accatggttc aactttaata gccgcaagtc tttctggcct ccctgctttg catcaaaagt
+      721 ttgatctgcc agctccattt gtattgcaca ctgactgccc acattattgg cgccatcacc
+      781 ttccaggtga gacagaagaa gagttctcta caagattagc caacaatttg gaaaatctta
+      841 tcctcaaaga gggaccagag acaattgctg cgttcattgc tgaacctgtc atgggagcag
+      901 gcggtgttat aactccacct gcaacttatt ttgaaaaggt tcaagctgtt gtgaagaaat
+      961 atgacattct atttattgcc gacgaggtaa tctgtgcttt tggaaggctt ggctacatgt
+     1021 atgggtgtga caaatacaac attaaaccag accttgtgtc tgtggcaaag gctctttctt
+     1081 ctgcatatat gccaattggt gctgttcttg tgagccctga agtttcagat gtcatacact
+     1141 ctcaaagcag caagcttggt tctttttctc acgggtttac atattctgga caccccgtag
+     1201 cctgtgcagt tgcaattgaa acactcaaga tctacaagga aagaaatatt gttgaacaag
+     1261 tacggagcat tgccccaaga tttcaagatg gtgtaaaagc cttctctgat agtccaatca
+     1321 taggggagat acggggaact ggattgatcc ttggtacaga attcacagac aataagtcac
+     1381 ccaatgatcc atttcctgct gaatgggggg taggtgcata ttttggagcc caatgcgaga
+     1441 aacatgggat gctaatacgt gtcgctgggg ataacataat gatgtctcca ccatttatta
+     1501 tgactcctag tgaggttgac gagttaataa gcctttatgg gaaagcattg aaggacactg
+     1561 aagaatatgt gaaggaactc aagtctaagc agaagtagtt gcaacttgta aatgtattga
+     1621 tatctgacga tggtg
+//
+
+LOCUS       JX276380                1729 bp    mRNA    linear   PLN 18-JAN-2013
+DEFINITION  Malus x domestica gamma-aminobutyrate transaminase 1 (GABA-T1)
+            mRNA, complete cds.
+ACCESSION   JX276380
+VERSION     JX276380.1
+KEYWORDS    .
+SOURCE      Malus domestica (apple)
+  ORGANISM  Malus domestica
+            Eukaryota; Viridiplantae; Streptophyta; Embryophyta; Tracheophyta;
+            Spermatophyta; Magnoliopsida; eudicotyledons; Gunneridae;
+            Pentapetalae; rosids; fabids; Rosales; Rosaceae; Amygdaloideae;
+            Maleae; Malus.
+REFERENCE   1  (bases 1 to 1729)
+  AUTHORS   Trobacher,C.P., Clark,S.M., Bozzo,G.G., Mullen,R.T., DeEll,J.R. and
+            Shelp,B.J.
+  TITLE     Catabolism of GABA in apple fruit: Subcellular localization and
+            biochemical characterization of two gamma-aminobutyrate
+            transaminases
+  JOURNAL   Postharvest Biol. Technol. 75, 106-113 (2013)
+REFERENCE   2  (bases 1 to 1729)
+  AUTHORS   Trobacher,C.P., Bozzo,G.G. and Shelp,B.J.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (05-JUL-2012) Plant Agriculture, University of Guelph, 50
+            Stone Road East, Guelph, Ontario N1G 2W1, Canada
+FEATURES             Location/Qualifiers
+     source          1..1729
+                     /organism="Malus domestica"
+                     /mol_type="mRNA"
+                     /cultivar="Empire"
+                     /isolation_source="fruit stored at 0 degrees C under 5%
+                     CO2 and 2% O2 for 8 weeks post-harvest"
+                     /db_xref="taxon:3750"
+                     /tissue_type="mature fruit"
+                     /note="authority: Malus x domestica Borkh."
+     gene            1..1729
+                     /gene="GABA-T1"
+                     /note="MdGABA-T1"
+     CDS             27..1571
+                     /gene="GABA-T1"
+                     /EC_number="2.6.1.19"
+                     /codon_start=1
+                     /product="gamma-aminobutyrate transaminase 1"
+                     /protein_id="AFS28620.1"
+                     /translation="MGINRFFRSNLRTQLVSCTKYAAASRSPLDHVLLVPFLARSYST
+                     GSPLRREESTAEEKGLGFKGHDMLAPFTAGWQSTDLHPLIIEKSEGCYVYDSNGKKYL
+                     DALAGLWCTALGGNEPRLVAAATKQLNTLPFYHSFWNRTTKPSLDLAKELLETFTASK
+                     MAKAFFTNSGSEANDTQVKLVWYYNNALGRPDKKKFIARHKSYHGSTLIAASLSGLPA
+                     LHQKFDLPAPFVLHTDCPHYWRHHLPGETEEEYSTRLANNLENLILKEGPETIAAFIA
+                     EPVMGAGGVIPPPATYFEKVQAVVKKYDILFIADEVICAFGRLGYMYGCDKYNIKPDL
+                     VSVAKALSSAYMPIGAVLVSPEVSDVIHSQSSELGSFSHGFTYSGHPVACAVAIEALK
+                     IYKERNIVEQVRSIAPRFQEGVKAFSDSPIIGEIRGTGLIIGTEFADNKSPNDPFPAE
+                     WGVCAYFGAQCEKHGMLVRVAGDNTMMSPPFIMTPSEVEELISIYGKALKATEEYVKE
+                     LKSKQT"
+ORIGIN      
+        1 ttgcgcaaag taaacgaatt caaaagatgg ggatcaatcg ttttttccga tccaatctca
+       61 gaacccagct tgtttcatgt acaaaatatg ccgctgcttc tagaagtcca ctggatcatg
+      121 tcttgctggt tccctttctg gccaggtctt atagtacagg gtcacctttg cgaagggaag
+      181 aatcaacagc tgaggaaaaa ggcctcgggt tcaaggggca tgatatgctt gcacccttca
+      241 cagctgggtg gcagagtact gatttgcatc ctttgattat agaaaagtct gagggttgct
+      301 atgtttatga cagcaatggg aagaagtacc tcgatgctct tgctggtcta tggtgcacag
+      361 cattaggcgg aaatgaacct agactagttg cagctgcaac taaacagttg aataccttgc
+      421 cattttacca ctcattttgg aatcgtacta ctaaaccatc tttggacttg gcaaaagaac
+      481 ttctagaaac ttttacagct tcaaaaatgg ccaaagcctt ctttactaat agtggatctg
+      541 aagccaatga tactcaggtg aagctggttt ggtattataa taatgcactt ggacgcccag
+      601 ataaaaagaa attcatagct cgacataaat cgtaccatgg ttcaactttg atagccgcaa
+      661 gtctttctgg cctccccgca ttgcatcaaa agtttgatct tccagctcca tttgttttgc
+      721 acactgactg cccgcattat tggcgccatc accttccagg tgagacagaa gaagagtatt
+      781 ctacgagact agccaacaat ttggaaaatc ttatcctcaa agagggacca gagacaattg
+      841 ctgcgttcat tgctgaacct gtcatgggag caggtggtgt gatacctccg cctgcaactt
+      901 attttgaaaa ggttcaagct gttgtgaaga aatatgacat tctatttatt gccgacgagg
+      961 taatctgtgc atttggaagg cttggctata tgtatgggtg tgacaaatac aacattaaac
+     1021 cagaccttgt atctgtggcg aaggctcttt cttctgcata tatgccaatc ggtgctgttc
+     1081 ttgtgagccc agaagtttca gatgtcatac actctcaaag cagcgagctt ggttcttttt
+     1141 ctcacgggtt tacatattct ggacaccccg tagcctgtgc agttgcaatc gaagcactca
+     1201 agatctacaa ggaaaggaat attgttgaac aagtacggag cattgcccca agatttcaag
+     1261 aaggtgtaaa agccttctct gacagtccaa tcatagggga gatacgggga actggattga
+     1321 tcattggtac agaattcgca gacaataagt cacccaatga tccatttcct gctgaatggg
+     1381 gggtatgtgc atactttgga gctcaatgcg agaagcacgg aatgctagta cgcgtcgccg
+     1441 gggataacac aatgatgtct ccaccattta ttatgactcc tagtgaggtt gaagagttga
+     1501 taagcattta tgggaaagca ttgaaggcca ctgaagagta tgtgaaggaa ctcaagtcta
+     1561 agcagacgta gttgcaactt gtaaatgtat tagtagatga caatggtgaa aaaaatgtgt
+     1621 agacttcatg taaagcaaaa cctttcccgt tctgttctct gtgatgaatg atattttgaa
+     1681 taaagcgttt tctttcgcaa aaaaaaaaaa aaaaaaaaaa aaaaaaaaa
+//
+
+LOCUS       JX569852                 960 bp    mRNA    linear   PLN 16-JAN-2013
+DEFINITION  Malus x domestica putative G-protein-coupled receptor mRNA,
+            complete cds.
+ACCESSION   JX569852
+VERSION     JX569852.1
+KEYWORDS    .
+SOURCE      Malus domestica (apple)
+  ORGANISM  Malus domestica
+            Eukaryota; Viridiplantae; Streptophyta; Embryophyta; Tracheophyta;
+            Spermatophyta; Magnoliopsida; eudicotyledons; Gunneridae;
+            Pentapetalae; rosids; fabids; Rosales; Rosaceae; Amygdaloideae;
+            Maleae; Malus.
+REFERENCE   1  (bases 1 to 960)
+  AUTHORS   Jia,W.S., Li,B.B. and Li,X.L.
+  TITLE     Cloning and characterization of the G-protein-coupled receptor gene
+            from Malus x domestica
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 960)
+  AUTHORS   Jia,W.S., Li,B.B. and Li,X.L.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (01-SEP-2012) College of Agronomy and Biotechnology,
+            China Agricultural University, No 2, Yuanmingyuan Western Road,
+            Beijing, Beijing 100094, China
+FEATURES             Location/Qualifiers
+     source          1..960
+                     /organism="Malus domestica"
+                     /mol_type="mRNA"
+                     /db_xref="taxon:3750"
+     CDS             1..960
+                     /codon_start=1
+                     /product="putative G-protein-coupled receptor"
+                     /protein_id="AGC31663.1"
+                     /translation="MGETGQVAGGLTAYDREVLTAVNAGAASLSFVGSGFIVLCYVLF
+                     KELRKFSFKLVFYLALSDMLCSFFSMVGDPSRGFFCYLHGYSTHFFYVASFLWTTTIA
+                     FTLHRTVVRHKTDVEDMEAMFHLYVWGTSLVVTVVRSIGNNHSHLGTWCWSQSGRTGK
+                     ALHLVTFYMPLWGAILYNGFTYFQVISMLKNARRMAAGMSDRTYQSDSRAEMKALNRW
+                     GYYPLILIGSWAFSTINRIHDFIEPSHKIFWLSVLDVGTAALMGLFNSIAYGLNSSVR
+                     RAIYERLDLFWPDRLKRWFPNSSKFRNQQQESELVALTNEDEH"
+ORIGIN      
+        1 atgggggaga cggggcaagt cgccggaggt ctgacggcgt acgatcgcga agtcttgacg
+       61 gcagttaacg ccggagcggc gagcctatcg ttcgtcgggt cggggttcat cgtcctctgc
+      121 tacgtcctct tcaaagagct ccgcaagttc tccttcaagc tcgtcttcta cctcgcgctc
+      181 tccgatatgc tttgtagctt cttcagcatg gttggggatc catccagagg atttttctgt
+      241 tacttgcacg gctacagtac tcatttcttc tatgtagcgt ctttcttatg gactaccacg
+      301 atcgctttta cactccaccg cacagttgtt agacacaaaa ctgatgttga agatatggag
+      361 gcaatgtttc atttgtatgt ttgggggact tcattagttg tgacagttgt gcgctctatt
+      421 gggaataacc atagccacct aggtacatgg tgttggtcac aatcagggcg tactggaaag
+      481 gcgcttcacc ttgtaacatt ttatatgcca ctttggggtg caattcttta caatggtttt
+      541 acatattttc aagtgataag catgctgaag aatgcgagac gtatggcagc tggcatgtca
+      601 gatcggactt accaatcaga ttctagagca gaaatgaagg ctttgaaccg gtgggggtac
+      661 tatccgctca tcctgatagg atcatgggct tttagcacaa tcaaccgcat tcatgacttt
+      721 attgaaccaa gtcataaaat attttggctc tcagttcttg atgttgggac agctgcactc
+      781 atgggcctgt tcaactccat agcctatggc ttgaactcct cagtgcgacg ggcaatatat
+      841 gaaagattgg atttgttctg gccagacagg cttaaaagat ggttccccaa cagttcaaag
+      901 tttaggaacc aacagcaaga gagtgaacta gtggcgctga caaatgaaga tgagcactag
+//
+
